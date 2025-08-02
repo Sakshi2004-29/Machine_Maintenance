@@ -4,7 +4,7 @@ This project focuses on developing a machine learning-based predictive maintenan
 
 
 
-📚 Project Context
+📚 Project Context :- 
 
 This project was completed as part of an internship with Edunet Foundation under the IBM SkillsBuild Program. The development and deployment of this model utilized IBM Cloud tools and services, including:
 
@@ -16,7 +16,7 @@ IBM Watson Machine Learning for model hosting and inference
 
 
 
-🚀 Features
+🚀 Features :- 
 
 Ingests and processes data from sensors attached to industrial machines
 
@@ -30,7 +30,7 @@ Integrates with IBM Cloud services for scalable deployment
 
 
 
-🧰 Technologies Used
+🧰 Technologies Used :- 
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
@@ -42,7 +42,7 @@ IBM Cloud Object Storage
 
 
 
-📈 Model Workflow
+📈 Model Workflow :- 
 
 Load and clean the dataset
 
@@ -58,7 +58,7 @@ Predict failure types from new real-time input data
 
 
 
-🌐 Use Case
+🌐 Use Case :- 
 
 Predictive maintenance helps industries reduce costs by avoiding unexpected failures and scheduling maintenance only when needed. This model is ideal for applications in:
 
@@ -72,7 +72,7 @@ Smart factories (Industry 4.0)
 
 
 
-🙏 Acknowledgments
+🙏 Acknowledgments :-
 
 Edunet Foundation for providing mentorship and training
 
