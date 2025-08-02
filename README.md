@@ -1,4 +1,4 @@
-Predictive Maintenance Model for Industrial Machinery
+# Predictive Maintenance Model for Industrial Machinery
 
 This project focuses on developing a machine learning-based predictive maintenance system to anticipate failures in industrial machinery. By analyzing real-time and historical sensor data, the model predicts various types of machine failures such as tool wear, heat dissipation issues, and power failures. This enables proactive maintenance planning, reducing downtime and operational costs.
 
@@ -9,7 +9,7 @@ This project focuses on developing a machine learning-based predictive maintenan
 
 
 
-📚 Project Context :- 
+## 📚 Project Context :- 
 
 This project was completed as part of an internship with Edunet Foundation under the IBM SkillsBuild Program. The development and deployment of this model utilized IBM Cloud tools and services, including:
 
