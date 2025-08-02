@@ -21,7 +21,7 @@ This project was completed as part of an internship with Edunet Foundation under
 
 
 
-🚀 Features :- 
+## 🚀 Features :- 
 
 ● Ingests and processes data from sensors attached to industrial machines
 
@@ -35,7 +35,7 @@ This project was completed as part of an internship with Edunet Foundation under
 
 
 
-🧰 Technologies Used :- 
+## 🧰 Technologies Used :- 
 
 ● Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
@@ -51,7 +51,7 @@ This project was completed as part of an internship with Edunet Foundation under
 
 
 
-📈 Model Workflow :- 
+## 📈 Model Workflow :- 
 
 ● Load and clean the dataset
 
@@ -68,7 +68,7 @@ This project was completed as part of an internship with Edunet Foundation under
 
 
 
-🌐 Use Case :- 
+## 🌐 Use Case :- 
 
 Predictive maintenance helps industries reduce costs by avoiding unexpected failures and scheduling maintenance only when needed. This model is ideal for applications in:
 
@@ -82,7 +82,7 @@ Predictive maintenance helps industries reduce costs by avoiding unexpected fail
 
 
 
-🙏 Acknowledgments :-
+## 🙏 Acknowledgments :-
 
 ● Edunet Foundation for providing mentorship and training
 
