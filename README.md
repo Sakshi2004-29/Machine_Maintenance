@@ -36,12 +36,14 @@ This project was completed as part of an internship with Edunet Foundation under
 ● Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 ● IBM watsonx.ai Studio
+<br>
 <img width="1895" height="921" alt="image" src="https://github.com/user-attachments/assets/02c5cda3-7c0e-41f4-9fb4-b5cd442aaba0" />
 
 
 ● IBM Watson Machine Learning
 
 ● IBM Cloud Object Storage
+<br>
 <img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/d7328ea3-4b18-489a-8276-76a3cc620890" />
 
 
@@ -60,6 +62,7 @@ This project was completed as part of an internship with Edunet Foundation under
 ● Deploy using IBM Watson Machine Learning
 
 ● Predict failure types from new real-time input data
+<br>
 <img width="964" height="630" alt="image" src="https://github.com/user-attachments/assets/60d94bb7-efa5-4296-a2d9-f9e16306e4f9" />
 
 <br>
