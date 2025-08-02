@@ -3,7 +3,7 @@
 This project focuses on developing a machine learning-based predictive maintenance system to anticipate failures in industrial machinery. By analyzing real-time and historical sensor data, the model predicts various types of machine failures such as tool wear, heat dissipation issues, and power failures. This enables proactive maintenance planning, reducing downtime and operational costs.
 
 
-
+<br>
 
 ## 📚 Project Context :- 
 
@@ -15,7 +15,7 @@ This project was completed as part of an internship with Edunet Foundation under
 
 ● IBM Watson Machine Learning for model hosting and inference
 
-
+<br>
 
 ## 🚀 Features :- 
 
@@ -29,7 +29,7 @@ This project was completed as part of an internship with Edunet Foundation under
 
 ● Integrates with IBM Cloud services for scalable deployment
 
-
+<br>
 
 ## 🧰 Technologies Used :- 
 
@@ -45,7 +45,7 @@ This project was completed as part of an internship with Edunet Foundation under
 <img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/d7328ea3-4b18-489a-8276-76a3cc620890" />
 
 
-
+<br>
 
 ## 📈 Model Workflow :- 
 
@@ -62,7 +62,7 @@ This project was completed as part of an internship with Edunet Foundation under
 ● Predict failure types from new real-time input data
 <img width="964" height="630" alt="image" src="https://github.com/user-attachments/assets/60d94bb7-efa5-4296-a2d9-f9e16306e4f9" />
 
-
+<br>
 
 ## 🌐 Use Case :- 
 
@@ -76,7 +76,7 @@ Predictive maintenance helps industries reduce costs by avoiding unexpected fail
 
 ● Smart factories (Industry 4.0)
 
-
+<br>
 
 ## 🙏 Acknowledgments :-
 
