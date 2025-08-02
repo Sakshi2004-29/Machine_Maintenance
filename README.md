@@ -4,6 +4,11 @@ This project focuses on developing a machine learning-based predictive maintenan
 
 
 
+
+
+
+
+
 📚 Project Context :- 
 
 This project was completed as part of an internship with Edunet Foundation under the IBM SkillsBuild Program. The development and deployment of this model utilized IBM Cloud tools and services, including:
