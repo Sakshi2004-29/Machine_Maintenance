@@ -3,9 +3,9 @@ This project focuses on developing a machine learning-based predictive maintenan
 
 📚 Project Context
 This project was completed as part of an internship with Edunet Foundation under the IBM SkillsBuild Program. The development and deployment of this model utilized IBM Cloud tools and services, including:
-● IBM watsonx.ai Studio for model training and deployment
-● IBM Cloud Object Storage for storing datasets
-● IBM Watson Machine Learning for model hosting and inference
+IBM watsonx.ai Studio for model training and deployment
+IBM Cloud Object Storage for storing datasets
+IBM Watson Machine Learning for model hosting and inference
 
 🚀 Features
 ● Ingests and processes data from sensors attached to industrial machines
